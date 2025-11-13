@@ -11,3 +11,4 @@ To study the correlation between product reviews and customer retention.
 To understand how geography and demographics influence engagement.
 To optimize content strategy (likes, clicks, views) based on engagement data.
 
+It supports Marketing Performance Analysis — tracking how customers engage, review, and purchase products across campaigns, geographies, and content types.
